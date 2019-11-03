@@ -1,5 +1,6 @@
-# Python MD5 [FAST] Bruteforce 
-##Switchable (Cyrillic) Russian letters
+# Python MD5 [FAST] Bruteforce
+
+## Switchable (Cyrillic) Russian letters
 
 You can uncomment lines for full bruteforce or/and add **(Cyrillic) russian** letters
 
