@@ -1,4 +1,7 @@
-# python-md5-bruteforce
+# Python MD5 FAST Bruteforce
+
+You can uncomment lines for full bruteforce or/and add russian letters
+
 
 ## Installation
 
@@ -13,22 +16,19 @@ python md5-bruteforce.py
 after script says
 
 ```sh
-add md5
+Paste MD5 here:
 ```
 
 paste your md5 string and hit enter
 
 ## Version
 
-2.0
+2.1
 
-## Todos
-
-- show how much passwords are tried
 
 ## Test
 
-![Test Image](http://i.imgur.com/XzJVWyw.png)
+![Test Image](screen.png)
 
 ## License
 
@@ -37,3 +37,4 @@ Completely Free
 **Free Software, Hell Yeah!**
 
  Thanks to       :  Sefa Deniz (<https://github.com/sefasaid>)
+ Also thanks to  :  Sefa Deniz (<https://github.com/rzumstein>)
