@@ -1,6 +1,7 @@
-# Python MD5 FAST Bruteforce
+# Python MD5 [FAST] Bruteforce 
+##Switchable (Cyrillic) Russian letters
 
-You can uncomment lines for full bruteforce or/and add russian letters
+You can uncomment lines for full bruteforce or/and add **(Cyrillic) russian** letters
 
 
 ## Installation
@@ -37,4 +38,6 @@ Completely Free
 **Free Software, Hell Yeah!**
 
  Thanks to       :  Sefa Deniz (<https://github.com/sefasaid>)
+ 
  Also thanks to  :  Sefa Deniz (<https://github.com/rzumstein>)
+
