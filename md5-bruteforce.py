@@ -16,8 +16,6 @@ info = """
   Fixed by        : Ateez
 """
 
-old=''
-
 done = False
 def signal_handler(signal, frame):
     print('You pressed Ctrl+C!')
