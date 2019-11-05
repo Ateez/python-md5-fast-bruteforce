@@ -23,9 +23,11 @@ Paste MD5 here:
 
 paste your md5 string and hit enter
 
+the response is also saved to a file
+
 ## Version
 
-2.1
+2.2
 
 
 ## Test
