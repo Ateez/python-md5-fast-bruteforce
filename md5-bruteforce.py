@@ -58,6 +58,9 @@ def _attack(chrs, inputt):
               print("\r\r _ _ _ _ _ _ _ _ _ _\n\n", stringg+'\n _ _ _ _ _ _ _ _ _ _')
               print("\n[-] End Time: ", time.strftime('%H:%M:%S'),"(%s sec)" % round((time.time() - start_time),1))
               print("\n[-] Total Keyword attempted: ", total_pass_try)
+              f = open("answer.txt", "w+")
+              f.write(stringg)
+              f.close()
               sys.exit("\nThank You !\n")
         
       print("\r[!]",n,"-character finished in %s sec\r" % round((time.time() - characterstart_time),1))
